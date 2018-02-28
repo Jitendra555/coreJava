@@ -1,0 +1,8 @@
+EMPLOYEE
+----------
+ID		NAME		DEPT		ADDRESS		SAL
+--------------------------------------------------
+001		JITENDRA	PD			BLR			20000
+002		LAVANYA		PD			BLR			20000
+003		LATHA		PD			BLR			30000
+004		KSHITIZ		INSURANCE	UP			10000
